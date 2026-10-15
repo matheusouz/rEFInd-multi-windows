@@ -1,0 +1,5 @@
+backup/
+preview/menu-refind.png
+__pycache__/
+*.pyc
+vm/
