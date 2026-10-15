@@ -144,3 +144,8 @@ If you choose an entry in the VM you get a blue "Recovery / 0xc000000f" screen. 
 | `preview/preview_boot.py` | Draws a preview of the menu |
 | `assets/icons/` | `source/` (original logos), `plain/` and `labeled/` (generated icons) |
 | `backup/`, `vm/` | Backups and VM disks created by the scripts (not versioned) |
+| `LICENSE` | MIT license |
+
+## License
+
+[MIT](LICENSE). rEFInd and the `rEFInd-minimal` theme are separate projects with their own licenses, and the Windows logos in `assets/icons` are trademarks of Microsoft.
